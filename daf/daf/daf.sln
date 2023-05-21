@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "daf", "daf\daf.csproj", "{B56F085E-F059-4805-990E-B17E0F7E2F4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56F085E-F059-4805-990E-B17E0F7E2F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56F085E-F059-4805-990E-B17E0F7E2F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56F085E-F059-4805-990E-B17E0F7E2F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56F085E-F059-4805-990E-B17E0F7E2F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DECF46E-B270-4FC7-A58F-D9EF1B86A4A1}
+	EndGlobalSection
+EndGlobal

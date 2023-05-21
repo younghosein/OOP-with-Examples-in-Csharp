@@ -1,0 +1,10 @@
+C:\Users\RayanGate\source\repos\daf\daf\obj\Debug\daf.csprojAssemblyReference.cache
+C:\Users\RayanGate\source\repos\daf\daf\obj\Debug\daf.Form1.resources
+C:\Users\RayanGate\source\repos\daf\daf\obj\Debug\daf.Properties.Resources.resources
+C:\Users\RayanGate\source\repos\daf\daf\obj\Debug\daf.csproj.GenerateResource.cache
+C:\Users\RayanGate\source\repos\daf\daf\obj\Debug\daf.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\daf\daf\bin\Debug\daf.exe.config
+C:\Users\RayanGate\source\repos\daf\daf\bin\Debug\daf.exe
+C:\Users\RayanGate\source\repos\daf\daf\bin\Debug\daf.pdb
+C:\Users\RayanGate\source\repos\daf\daf\obj\Debug\daf.exe
+C:\Users\RayanGate\source\repos\daf\daf\obj\Debug\daf.pdb
