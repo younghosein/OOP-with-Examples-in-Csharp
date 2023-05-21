@@ -1,0 +1,10 @@
+C:\Users\RayanGate\source\repos\Daftarche telefone sade\Daftarche telefone sade\obj\Debug\Daftarche telefone sade.csprojAssemblyReference.cache
+C:\Users\RayanGate\source\repos\Daftarche telefone sade\Daftarche telefone sade\obj\Debug\Daftarche_telefone_sade.Form1.resources
+C:\Users\RayanGate\source\repos\Daftarche telefone sade\Daftarche telefone sade\obj\Debug\Daftarche_telefone_sade.Properties.Resources.resources
+C:\Users\RayanGate\source\repos\Daftarche telefone sade\Daftarche telefone sade\obj\Debug\Daftarche telefone sade.csproj.GenerateResource.cache
+C:\Users\RayanGate\source\repos\Daftarche telefone sade\Daftarche telefone sade\obj\Debug\Daftarche telefone sade.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\Daftarche telefone sade\Daftarche telefone sade\bin\Debug\Simple Contact.exe.config
+C:\Users\RayanGate\source\repos\Daftarche telefone sade\Daftarche telefone sade\bin\Debug\Simple Contact.exe
+C:\Users\RayanGate\source\repos\Daftarche telefone sade\Daftarche telefone sade\bin\Debug\Simple Contact.pdb
+C:\Users\RayanGate\source\repos\Daftarche telefone sade\Daftarche telefone sade\obj\Debug\Simple Contact.exe
+C:\Users\RayanGate\source\repos\Daftarche telefone sade\Daftarche telefone sade\obj\Debug\Simple Contact.pdb
